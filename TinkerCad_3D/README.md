@@ -7,4 +7,3 @@ This repo contains a recorded tutorial for designing a 2WD Robot body from scrat
 - __2WD Robot Design__ : A intro for tinkerCad 3D modeling
 
   - [Video](https://drive.google.com/file/d/16Evz3_jZk3WfuBknIo72wnqTKyL1KsN-/view)
-  - [Video](https://drive.google.com/file/d/16Evz3_jZk3WfuBknIo72wnqTKyL1KsN-/view)
