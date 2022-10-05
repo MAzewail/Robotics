@@ -148,9 +148,9 @@ rfid.halt();
   lcd.clear();
   lcd.home();
   lcd.print("User authorized");
-  digitalWrite(relay,1);
+  digitalWrite(8,1);
   delay(3000);
-  digitalWrite(relay,0);
+  digitalWrite(8,0);
   reslcd();
   }
   else {
