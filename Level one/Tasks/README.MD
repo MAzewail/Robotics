@@ -31,8 +31,21 @@
 
 * The second one is a normal solution as shown [here](https://www.tinkercad.com/things/1mBmCYXdkq1)
 
+### Solutions:
+
 - Check the advanced code [here](https://github.com/MAzewail/Robotics/blob/main/Level%20one/Tasks/Task_Three_Adv.ino)
 
 - Finally the normal one [here](https://github.com/MAzewail/Robotics/blob/main/Level%20one/Tasks/Task_Three.ino)
+
+
+## Task Four
+
+- The needed sequence has been shown in [this video](https://drive.google.com/file/d/1r1joqvtKTOIVR6RPEmBBDy8S3tamUx0_).
+
+- You can also open the whole project with the connections and code [here](https://www.tinkercad.com/things/6hcUnrZEMwS).
+
+- Check the code [here](https://github.com/MAzewail/Robotics/blob/main/Level%20one/Tasks/Task_Four.ino)
+
+
 
 
