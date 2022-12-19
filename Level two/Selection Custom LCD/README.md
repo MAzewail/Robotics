@@ -8,17 +8,17 @@
 
 ## Mode One
 
-![Image](https://github.com/MAzewail/Robotics/tree/main/Level%20two/Selection%20Custom%20LCD/Screen1.PNG).
+![Screen1](https://github.com/MAzewail/Robotics/blob/main/Level%20two/Selection%20Custom%20LCD/Screen1.PNG)
 
 ## Mode Two
 
-![Image](https://github.com/MAzewail/Robotics/tree/main/Level%20two/Selection%20Custom%20LCD/Screen2.PNG).
+![Screen2](https://github.com/MAzewail/Robotics/tree/main/Level%20two/Selection%20Custom%20LCD/Screen2.PNG)
 
 ## Mode Three
 
-![Image](https://github.com/MAzewail/Robotics/tree/main/Level%20two/Selection%20Custom%20LCD/Screen3.PNG).
+![Screen3](https://github.com/MAzewail/Robotics/tree/main/Level%20two/Selection%20Custom%20LCD/Screen3.PNG)
 
 ## Mode Four
 
-![Image](https://github.com/MAzewail/Robotics/tree/main/Level%20two/Selection%20Custom%20LCD/Screen4.PNG).
+![Screen4](https://github.com/MAzewail/Robotics/tree/main/Level%20two/Selection%20Custom%20LCD/Screen4.PNG)
 
